@@ -14,6 +14,7 @@
 	<Item Name="Test Case.Serialize - Invalid character in Name - XML does not contain invalid character.vi" Type="VI" URL="../Test Case.Serialize - Invalid character in Name - XML does not contain invalid character.vi"/>
 	<Item Name="Test Case.Serialize - Invalid character in Stack Trace - XML does not contain invalid character.vi" Type="VI" URL="../Test Case.Serialize - Invalid character in Stack Trace - XML does not contain invalid character.vi"/>
 	<Item Name="Test Case.Serialize - Invalid character in Type - XML does not contain invalid character.vi" Type="VI" URL="../Test Case.Serialize - Invalid character in Type - XML does not contain invalid character.vi"/>
+	<Item Name="Test Suite.lvlib" Type="Library" URL="../Test Suite/Test Suite.lvlib"/>
 	<Item Name="Test Suite.Serialize - Invalid character in Hostname - XML does not contain invalid character.vi" Type="VI" URL="../Test Suite.Serialize - Invalid character in Hostname - XML does not contain invalid character.vi"/>
 	<Item Name="Test Suite.Serialize - Invalid character in Name - XML does not contain invalid character.vi" Type="VI" URL="../Test Suite.Serialize - Invalid character in Name - XML does not contain invalid character.vi"/>
 	<Item Name="Test Suite.Serialize - Invalid character in Package - XML does not contain invalid character.vi" Type="VI" URL="../Test Suite.Serialize - Invalid character in Package - XML does not contain invalid character.vi"/>

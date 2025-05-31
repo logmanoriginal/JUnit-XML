@@ -9,13 +9,6 @@
 		<Item Name="Get Invalid Chars.vi" Type="VI" URL="../Get Invalid Chars.vi"/>
 	</Item>
 	<Item Name="Normalize String - String with Invalid Character - Normalized String does not contain Invalid Character.vi" Type="VI" URL="../Normalize String - String with Invalid Character - Normalized String does not contain Invalid Character.vi"/>
-	<Item Name="Test Case.Serialize - Invalid character in Classname - XML does not contain invalid character.vi" Type="VI" URL="../Test Case.Serialize - Invalid character in Classname - XML does not contain invalid character.vi"/>
-	<Item Name="Test Case.Serialize - Invalid character in Message - XML does not contain invalid character.vi" Type="VI" URL="../Test Case.Serialize - Invalid character in Message - XML does not contain invalid character.vi"/>
-	<Item Name="Test Case.Serialize - Invalid character in Name - XML does not contain invalid character.vi" Type="VI" URL="../Test Case.Serialize - Invalid character in Name - XML does not contain invalid character.vi"/>
-	<Item Name="Test Case.Serialize - Invalid character in Stack Trace - XML does not contain invalid character.vi" Type="VI" URL="../Test Case.Serialize - Invalid character in Stack Trace - XML does not contain invalid character.vi"/>
-	<Item Name="Test Case.Serialize - Invalid character in Type - XML does not contain invalid character.vi" Type="VI" URL="../Test Case.Serialize - Invalid character in Type - XML does not contain invalid character.vi"/>
+	<Item Name="Test Case.lvlib" Type="Library" URL="../Test Case/Test Case.lvlib"/>
 	<Item Name="Test Suite.lvlib" Type="Library" URL="../Test Suite/Test Suite.lvlib"/>
-	<Item Name="Test Suite.Serialize - Invalid character in Hostname - XML does not contain invalid character.vi" Type="VI" URL="../Test Suite.Serialize - Invalid character in Hostname - XML does not contain invalid character.vi"/>
-	<Item Name="Test Suite.Serialize - Invalid character in Name - XML does not contain invalid character.vi" Type="VI" URL="../Test Suite.Serialize - Invalid character in Name - XML does not contain invalid character.vi"/>
-	<Item Name="Test Suite.Serialize - Invalid character in Package - XML does not contain invalid character.vi" Type="VI" URL="../Test Suite.Serialize - Invalid character in Package - XML does not contain invalid character.vi"/>
 </Library>

@@ -16,6 +16,7 @@
 		<Item Name="To ISO8601 Time.vi" Type="VI" URL="../To ISO8601 Time.vi"/>
 	</Item>
 	<Item Name="Property.lvclass" Type="LVClass" URL="../Property/Property.lvclass"/>
+	<Item Name="Serializable.lvclass" Type="LVClass" URL="../Serializable/Serializable.lvclass"/>
 	<Item Name="Test Case.lvclass" Type="LVClass" URL="../Test Case/Test Case.lvclass"/>
 	<Item Name="Test Suite.lvclass" Type="LVClass" URL="../Test Suite/Test Suite.lvclass"/>
 </Library>

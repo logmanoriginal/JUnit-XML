@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-30 21:18:47" Modified_Date="2025-07-12 16:32:53" Creator="pasca" Comments="" ID="6aab2592364c97d9950f1b7a007836ae">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-30 21:18:47" Modified_Date="2025-07-12 17:17:33" Creator="pasca" Comments="" ID="5c068fcac206c9b55a462cf312b32b25">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JUnit_XML</Package_File_Name>
-    <Library_Version>0.1.0.3</Library_Version>
+    <Library_Version>0.1.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -101,6 +101,12 @@
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Examples</Path>
+        <Destination>1</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
       <Password_Overrides>
         <Path>.</Path>
         <Password/>
@@ -128,6 +134,9 @@
       </Exclusions>
       <Place_Folder_Contents>
         <Path/>
+      </Place_Folder_Contents>
+      <Place_Folder_Contents>
+        <Path>Examples</Path>
       </Place_Folder_Contents>
     </Source_Files>
     <License_Agreement_Filepath>LICENSE</License_Agreement_Filepath>
@@ -285,7 +294,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Property</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>58203E42CC221011AF83570D91CDDDB0</GUID>
+      <GUID>53EFB186F2FACA31E50D02CBBFFAF0EA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -320,7 +329,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Property\Create.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CCCD1FC4C1C20A426722BF1E1624B179</GUID>
+      <GUID>BE8384FBCDB488CE8D0AB45F7D95864D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -397,7 +406,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Test Case\Create Skipped.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B0F43E94BD465F2467CD1F60530A8517</GUID>
+      <GUID>0319CD006790A94CBADDAE93E00ED638</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -446,7 +455,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Test Suites\Create.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>73D78E8BCB06C89163C05E129E119A00</GUID>
+      <GUID>610377A2E0AB2EA3AA2B6CA25F3E1BB0</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -509,7 +518,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Test Suite\Add Property.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>33C4092EC91DB850B2338BA2F8CA015F</GUID>
+      <GUID>C5F904716358F19B31CFE91A9BA5DF81</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

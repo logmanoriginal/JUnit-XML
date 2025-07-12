@@ -130,6 +130,6 @@ Project Link: [https://github.com/logmanoriginal/JUnit-XML](https://github.com/l
 [issues-shield]: https://img.shields.io/github/issues/logmanoriginal/JUnit-XML.svg?style=for-the-badge
 [issues-url]: https://github.com/logmanoriginal/JUnit-XML/issues
 [license-shield]: https://img.shields.io/github/license/logmanoriginal/JUnit-XML.svg?style=for-the-badge
-[license-url]: https://github.com/logmanoriginal/JUnit-XML/blob/master/LICENSE.txt
+[license-url]: https://github.com/logmanoriginal/JUnit-XML/blob/master/LICENSE
 [azure-build-status-url]: https://dev.azure.com/neuperger/Public/_build/latest?definitionId=28&branchName=main
 [azure-build-status-shield]: https://img.shields.io/azure-devops/build/neuperger/public/28/main?style=for-the-badge&logo=azure-pipelines&label=Azure%20Pipelines

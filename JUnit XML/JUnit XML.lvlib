@@ -10,13 +10,12 @@
 	<Item Name="Support" Type="Folder">
 		<Item Name="Create Attribute.vi" Type="VI" URL="../Create Attribute.vi"/>
 		<Item Name="Create Child Element.vi" Type="VI" URL="../Create Child Element.vi"/>
-		<Item Name="Create Document.vi" Type="VI" URL="../Create Document.vi"/>
 		<Item Name="Normalize String.vi" Type="VI" URL="../Normalize String.vi"/>
-		<Item Name="Save Document.vi" Type="VI" URL="../Save Document.vi"/>
 		<Item Name="To ISO8601 Time.vi" Type="VI" URL="../To ISO8601 Time.vi"/>
 	</Item>
 	<Item Name="Property.lvclass" Type="LVClass" URL="../Property/Property.lvclass"/>
 	<Item Name="Serializable.lvclass" Type="LVClass" URL="../Serializable/Serializable.lvclass"/>
 	<Item Name="Test Case.lvclass" Type="LVClass" URL="../Test Case/Test Case.lvclass"/>
 	<Item Name="Test Suite.lvclass" Type="LVClass" URL="../Test Suite/Test Suite.lvclass"/>
+	<Item Name="Test Suites.lvclass" Type="LVClass" URL="../Test Suites/Test Suites.lvclass"/>
 </Library>

@@ -121,15 +121,15 @@ Project Link: [https://github.com/logmanoriginal/JUnit-XML](https://github.com/l
 
 <!-- MARKDOWN LINKS & Images -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/logmanoriginal/JUnit-XML.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/logmanoriginal/JUnit-XML?style=for-the-badge
 [contributors-url]: https://github.com/logmanoriginal/JUnit-XML/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/logmanoriginal/JUnit-XML.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/logmanoriginal/JUnit-XML?style=for-the-badge
 [forks-url]: https://github.com/logmanoriginal/JUnit-XML/network/members
-[stars-shield]: https://img.shields.io/github/stars/logmanoriginal/JUnit-XML.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/logmanoriginal/JUnit-XML?style=for-the-badge
 [stars-url]: https://github.com/logmanoriginal/JUnit-XML/stargazers
-[issues-shield]: https://img.shields.io/github/issues/logmanoriginal/JUnit-XML.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/logmanoriginal/JUnit-XML?style=for-the-badge
 [issues-url]: https://github.com/logmanoriginal/JUnit-XML/issues
-[license-shield]: https://img.shields.io/github/license/logmanoriginal/JUnit-XML.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/logmanoriginal/JUnit-XML?style=for-the-badge
 [license-url]: https://github.com/logmanoriginal/JUnit-XML/blob/master/LICENSE
 [azure-build-status-url]: https://dev.azure.com/neuperger/Public/_build/latest?definitionId=28&branchName=main
 [azure-build-status-shield]: https://img.shields.io/azure-devops/build/neuperger/public/28/main?style=for-the-badge&logo=azure-pipelines&label=Azure%20Pipelines

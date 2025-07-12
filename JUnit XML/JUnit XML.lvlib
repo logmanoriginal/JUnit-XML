@@ -19,4 +19,5 @@
 	<Item Name="Serializable.lvclass" Type="LVClass" URL="../Serializable/Serializable.lvclass"/>
 	<Item Name="Test Case.lvclass" Type="LVClass" URL="../Test Case/Test Case.lvclass"/>
 	<Item Name="Test Suite.lvclass" Type="LVClass" URL="../Test Suite/Test Suite.lvclass"/>
+	<Item Name="Test Suites.lvclass" Type="LVClass" URL="../Test Suites/Test Suites.lvclass"/>
 </Library>

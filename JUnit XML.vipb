@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-30 21:18:47" Modified_Date="2025-07-12 17:43:02" Creator="pasca" Comments="" ID="de60283a7dd9e062eb0ee5d772d04f58">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2025-05-30 21:18:47" Modified_Date="2025-07-12 18:34:47" Creator="pasca" Comments="" ID="2cbeb931a4b485d54ca9ecb03024cb86">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_JUnit_XML</Package_File_Name>
-    <Library_Version>0.1.0.4</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -41,7 +41,7 @@ Supports:
       <Copyright>Copyright (c) 2023 - 2025, Pascal Neuperger</Copyright>
       <Packager>Pascal Neuperger</Packager>
       <URL>https://github.com/logmanoriginal/JUnit-XML</URL>
-      <Release_Notes/>
+      <Release_Notes>This is the first release, which includes a complete set of features to create JUnit test reports in XML format, including test suites, test cases, and properties.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -303,7 +303,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Property</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>732205BE94DCCEA899D9B18BF50AB15E</GUID>
+      <GUID>8199FD2457D640AB66163C046CC131A9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -338,7 +338,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Property\Create.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9592B61F86714C355D2FED6C2AF2CEF9</GUID>
+      <GUID>2E73AD19B2B5C62B5F09F1BEC12E5B2E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -415,7 +415,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Test Case\Create Skipped.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1C8581A885934F0C1A9189B35BB489B4</GUID>
+      <GUID>E2AA248706FF506A55073BE42C3B8D65</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -464,7 +464,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Test Suites\Create.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5B730EA98308FD9F07CF1DC660B5ECCA</GUID>
+      <GUID>2F2AD76A402E3F4379BF8B2696E59375</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -527,7 +527,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>JUnit XML\Test Suite\Add Property.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>10242EE7BC851B5AF5EFB724919BD1E9</GUID>
+      <GUID>DF9917CE9C491087D8AAEBD26DF26855</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>

@@ -6,6 +6,8 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Item Name="Add Test Suite - Without Id - Reports Error.vi" Type="VI" URL="../Add Test Suite - Without Id - Reports Error.vi"/>
+	<Item Name="Add Test Suite - Without Package - Reports Error.vi" Type="VI" URL="../Add Test Suite - Without Package - Reports Error.vi"/>
 	<Item Name="To XML - Empty - Returns empty element.vi" Type="VI" URL="../To XML - Empty - Returns empty element.vi"/>
 	<Item Name="To XML - With test suites - Returns aggregated XML.vi" Type="VI" URL="../To XML - With test suites - Returns aggregated XML.vi"/>
 </Library>

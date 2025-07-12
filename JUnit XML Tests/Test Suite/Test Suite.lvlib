@@ -7,8 +7,9 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Create - Time Stamp is Current Time.vi" Type="VI" URL="../Create - Time Stamp is Current Time.vi"/>
-	<Item Name="To XML - Id defined - XML contains id.vi" Type="VI" URL="../To XML - Id defined - XML contains id.vi"/>
+	<Item Name="To XML - Id is not negative - XML contains id.vi" Type="VI" URL="../To XML - Id is not negative - XML contains id.vi"/>
 	<Item Name="To XML - Invalid character in Hostname - XML does not contain invalid character.vi" Type="VI" URL="../To XML - Invalid character in Hostname - XML does not contain invalid character.vi"/>
 	<Item Name="To XML - Invalid character in Name - XML does not contain invalid character.vi" Type="VI" URL="../To XML - Invalid character in Name - XML does not contain invalid character.vi"/>
 	<Item Name="To XML - Invalid character in Package - XML does not contain invalid character.vi" Type="VI" URL="../To XML - Invalid character in Package - XML does not contain invalid character.vi"/>
+	<Item Name="To XML - Package is not empty - XML contains package.vi" Type="VI" URL="../To XML - Package is not empty - XML contains package.vi"/>
 </Library>

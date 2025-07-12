@@ -11,5 +11,6 @@
 	<Item Name="To XML - Invalid character in Hostname - XML does not contain invalid character.vi" Type="VI" URL="../To XML - Invalid character in Hostname - XML does not contain invalid character.vi"/>
 	<Item Name="To XML - Invalid character in Name - XML does not contain invalid character.vi" Type="VI" URL="../To XML - Invalid character in Name - XML does not contain invalid character.vi"/>
 	<Item Name="To XML - Invalid character in Package - XML does not contain invalid character.vi" Type="VI" URL="../To XML - Invalid character in Package - XML does not contain invalid character.vi"/>
+	<Item Name="To XML - Non-Aggregated - XML contains only test suite.vi" Type="VI" URL="../To XML - Non-Aggregated - XML contains only test suite.vi"/>
 	<Item Name="To XML - Package is not empty - XML contains package.vi" Type="VI" URL="../To XML - Package is not empty - XML contains package.vi"/>
 </Library>

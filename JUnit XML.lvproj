@@ -11,6 +11,12 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="JUnit Aggregate.vi" Type="VI" URL="../Examples/JUnit Aggregate.vi"/>
+			<Item Name="JUnit Basic.vi" Type="VI" URL="../Examples/JUnit Basic.vi"/>
+			<Item Name="JUnit Full.vi" Type="VI" URL="../Examples/JUnit Full.vi"/>
+			<Item Name="JUnit Simple.vi" Type="VI" URL="../Examples/JUnit Simple.vi"/>
+		</Item>
 		<Item Name="JUnit XML Tests.lvlib" Type="Library" URL="../JUnit XML Tests/JUnit XML Tests.lvlib"/>
 		<Item Name="JUnit XML.lvlib" Type="Library" URL="../JUnit XML/JUnit XML.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
